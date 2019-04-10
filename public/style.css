@@ -1,0 +1,29 @@
+html * {
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+}
+
+.sub-head {
+  margin-top: 10px;
+}
+
+.icon-main {
+  margin-right: 10px;
+}
+
+a {
+  color: #008489 !important;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+.category {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.thin {
+  font-weight: 90;
+  font-size: smaller;
+}
