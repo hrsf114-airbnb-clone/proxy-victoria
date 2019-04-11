@@ -13,5 +13,8 @@
     "axios": "^0.18.0",
     "express": "^4.16.2",
     "morgan": "^1.9.0"
+  },
+  "devDependencies": {
+    "grunt-aws-s3": "^2.0.0"
   }
 }
